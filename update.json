@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "versionCode": 10000,
+  "apk": "https://github.com/763061952/misched/releases/latest/download/misched.apk",
+  "module": "https://github.com/763061952/misched/releases/latest/download/misched_core.zip",
+  "notes": "米调度 v1.0.0：拟物界面 + CPU 调度（频率上下限/后台限流/应用级区间/一键省电）"
+}
