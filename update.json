@@ -1,7 +1,7 @@
 {
-  "version": "1.0.30",
-  "versionCode": 130,
-  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v1.0.30.apk",
+  "version": "1.0.32",
+  "versionCode": 132,
+  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v1.0.32.apk",
   "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_1.0.19.zip",
-  "notes": "v1.0.30\n\n修复模块连接问题。\n\n先更新 App，再更新模块 1.0.19。"
+  "notes": "v1.0.32\n\n修复伪装温度开了又自动关掉的问题。\n\n先更新 App，再更新模块 1.0.19。"
 }
