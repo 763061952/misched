@@ -1,7 +1,7 @@
 {
-  "version": "1.0.23",
-  "versionCode": 123,
-  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v1.0.23.apk",
+  "version": "1.0.27",
+  "versionCode": 127,
+  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v1.0.27.apk",
   "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_1.0.19.zip",
-  "notes": "v1.0.23 更新内容：\n\n【顺序】先更新 App 到 1.0.23，再更新模块 1.0.19。\n\n【本次修复】\n· 模块卸载后 App 仍显示「已安装 / 在线」：改为以模块目录 module.prop 是否真实存在为准\n· 检测到模块已卸载：自动杀掉残留 service.sh 进程，通道显示「离线 · 模块已卸载」\n· 重装后未激活：外部 license 读不到时，用 root 读取 /sdcard/MiSched/license，激活自动恢复\n· 模块装好通道离线：自动合并 modules_update 并拉起服务\n· 检查更新加时间戳绕缓存、模块下载私有目录、进程托管持久记忆\n\n【模块 1.0.19】\n· 开机自启巡查临时 Root 空转进程，限 5% CPU、绑单核，不杀进程\n· 每 60 秒复查；不改分辨率/刷新率/亮度"
+  "notes": "v1.0.27 更新内容：\n\n【顺序】先更新 App 到 1.0.27，再更新模块 1.0.19。\n\n【本次修复】\n· 模块状态按米快充方式判定：remove=已卸载、disable=已停用、module.prop=已安装并读版本、modules_update=已安装待生效、否则未安装\n· 模块已卸载/未安装时不再显示“已安装 / 在线”，并自动清理残留 service.sh 进程\n· 已安装模块时仍可重复安装（覆盖升级），按钮不锁\n· 待生效状态显示“已安装（待生效）”，避免误以为装失败\n· 重装后未激活：外部 license 读不到时用 root 读取 /sdcard/MiSched/license\n· 装模块后通道离线：自动合并 modules_update 并拉起服务\n· 检查更新加时间戳绕缓存；模块下载私有目录；进程托管持久记忆\n\n【模块 1.0.19】\n· 开机自启巡查临时 Root 空转进程，限 5% CPU、绑单核，不杀进程\n· 每 60 秒复查；不改分辨率/刷新率/亮度"
 }
