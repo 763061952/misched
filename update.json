@@ -1,7 +1,7 @@
 {
-  "version": "1.0.20",
-  "versionCode": 120,
-  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v1.0.20.apk",
+  "version": "1.0.21",
+  "versionCode": 121,
+  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v1.0.21.apk",
   "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_1.0.19.zip",
-  "notes": "v1.0.20 更新内容：\n\n【顺序】先更新 App 到 1.0.20，再更新模块 1.0.19。\n\n【本次新增/修复】\n· 进程托管改为按进程名持久记忆：绑过即记住，pid 变化、重启后仍认得\n· 已托管进程显示「已托管 · 已记住，不再轮换」，只有新进程首次绑一次\n· 模块下载改到 App 私有目录，修复 Android 13+ 写 /sdcard/Download 报 EACCES\n· 安装模块后自动合并 modules_update 并重启服务，不用重启手机\n· 检查更新加时间戳，绕过代理/CDN 缓存\n\n【模块 1.0.19】\n· 开机自启巡查临时 Root 空转进程（uaf_plant_replay 等）\n· 发现即限 5% CPU、绑定 CPU0、降低优先级，不杀进程\n· 每 60 秒复查；不改分辨率/刷新率/亮度\n· 实测空转 CPU 80~96% → 3.5%，电流 3.25A → 0.76A（约 2.6W）"
+  "notes": "v1.0.21 更新内容：\n\n【顺序】先更新 App 到 1.0.21，再更新模块 1.0.19。\n\n【本次修复】\n· 客户装完模块后通道离线：App 检测到离线时，会自动通过 root 合并 modules_update 并拉起模块服务，不需要重启手机\n· 进程托管按进程名持久记忆：绑过即记住，pid 变化、重启后仍认得，不再反复轮换\n· 模块下载到 App 私有目录，修复 Android 13+ 写 /sdcard/Download 的 EACCES\n· 安装模块后自动合并 modules_update 并重启服务\n· 检查更新加时间戳，绕过代理/CDN 缓存\n\n【模块 1.0.19】\n· 开机自启巡查临时 Root 空转进程（uaf_plant_replay 等）\n· 发现即限 5% CPU、绑定 CPU0、降低优先级，不杀进程\n· 每 60 秒复查；不改分辨率/刷新率/亮度\n· 实测空转 CPU 80~96% → 3.5%，电流 3.25A → 0.76A（约 2.6W）"
 }
