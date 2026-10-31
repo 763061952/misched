@@ -1,7 +1,7 @@
 {
-  "version": "1.0.19",
-  "versionCode": 119,
-  "apk": "https://github.com/763061952/misched/releases/download/v1.0.18/AutoPower_v1.0.18.apk",
+  "version": "1.0.3",
+  "versionCode": 103,
+  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v1.0.3.apk",
   "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_1.0.19.zip",
-  "notes": "v1.0.19 更新内容：\n· 开机自启巡查临时 Root 空转进程（uaf_plant_replay 等）\n· 发现即限 5% CPU 配额、绑定 CPU0、降低优先级\n· 不杀进程，不影响临时 Root 使用\n· 每 60 秒复查，新出现的空转进程也会被压住\n· 不改分辨率、不自动切换分辨率，不改刷新率/亮度\n· 日常调度、快充、温度伪装、游戏模式保持原样\n\n实测：uaf_plant_replay CPU 80~96% → 3.5%，电池电流 3.25A → 0.76A（约 2.6W）。\n\n安装：模块管理器刷入 misched_core_1.0.19.zip，重启生效。\n本次只发模块，App 不变。"
+  "notes": "v1.0.3 更新内容：\n· 模块 zip 改下到 App 私有目录，不再写 /sdcard/Download（Android 13+ 会报 EACCES）\n· 安装前 root 拷到 /data/local/tmp，再 ksud module install\n· APK 更新同样拷 /data/local/tmp 再 pm install\n· 保留 gh-proxy / ghfast 代理回退\n· 界面与功能沿用 1.0.2，仅修更新链路"
 }
