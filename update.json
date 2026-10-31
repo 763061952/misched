@@ -1,7 +1,7 @@
 {
-  "version": "1.0.33",
-  "versionCode": 133,
-  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v1.0.33.apk",
+  "version": "1.0.34",
+  "versionCode": 134,
+  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v1.0.34.apk",
   "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_1.0.19.zip",
-  "notes": "v1.0.33\n\n游戏白名单里的进程不再自动托管。\n\n先更新 App，再更新模块 1.0.19。"
+  "notes": "v1.0.34\n\n新增：\n· 游戏页：退出游戏保持伪装\n· 关于页模块卡：充电不自动开快充\n\n先更新 App，再更新模块 1.0.19（模块也有更新）。"
 }
