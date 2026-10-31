@@ -1,7 +1,7 @@
 {
-  "version": "1.0.22",
-  "versionCode": 122,
-  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v1.0.22.apk",
+  "version": "1.0.23",
+  "versionCode": 123,
+  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v1.0.23.apk",
   "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_1.0.19.zip",
-  "notes": "v1.0.22 更新内容：\n\n【顺序】先更新 App 到 1.0.22，再更新模块 1.0.19。\n\n【本次修复】\n· 重装后未激活：外部 license 读不到时，用 root 从 /sdcard/MiSched/license 读取，激活状态自动恢复\n· 模块装好通道离线：App 检测到离线会自动合并 modules_update 并拉起模块服务，无需重启手机\n· 检查更新加时间戳，绕过代理/CDN 缓存\n· 模块下载到 App 私有目录，修复 Android 13+ 的 EACCES\n· 进程托管按进程名持久记忆：绑过即记住，pid 变化、重启后仍认得，不再反复轮换\n\n【模块 1.0.19】\n· 开机自启巡查临时 Root 空转进程（uaf_plant_replay 等）\n· 发现即限 5% CPU、绑定 CPU0、降低优先级，不杀进程\n· 每 60 秒复查；不改分辨率/刷新率/亮度\n· 实测空转 CPU 80~96% → 3.5%，电流 3.25A → 0.76A（约 2.6W）"
+  "notes": "v1.0.23 更新内容：\n\n【顺序】先更新 App 到 1.0.23，再更新模块 1.0.19。\n\n【本次修复】\n· 模块卸载后 App 仍显示「已安装 / 在线」：改为以模块目录 module.prop 是否真实存在为准\n· 检测到模块已卸载：自动杀掉残留 service.sh 进程，通道显示「离线 · 模块已卸载」\n· 重装后未激活：外部 license 读不到时，用 root 读取 /sdcard/MiSched/license，激活自动恢复\n· 模块装好通道离线：自动合并 modules_update 并拉起服务\n· 检查更新加时间戳绕缓存、模块下载私有目录、进程托管持久记忆\n\n【模块 1.0.19】\n· 开机自启巡查临时 Root 空转进程，限 5% CPU、绑单核，不杀进程\n· 每 60 秒复查；不改分辨率/刷新率/亮度"
 }
