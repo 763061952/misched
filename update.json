@@ -1,7 +1,7 @@
 {
-  "version": "2.0.10",
-  "versionCode": 210,
-  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.0.10.apk",
+  "version": "2.0.11",
+  "versionCode": 211,
+  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.0.11.apk",
   "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_1.0.21.zip",
   "notes": "v2.0 超级大更新\n\n· 新增日系风格主题（设置 → 日系主题 切换）\n  · 芯片区：海 + 鸟居 + 云 + 远山 + 樱瓣，动态\n  · CPU 三簇：秒速五厘米道口场景（黄昏、樱花、男女对望、凸面镜、路灯）\n  · 卡片：液态玻璃，背景透出\n  · 整页配色：靛蓝 / 樱粉 / 米白 / 朱红\n· 夜间模式（跟随系统 / 开 / 关）\n· 试用期 3 天 → 7 天，老用户按首次使用时间自动计算剩余\n· 性能：多动画统一 vsync、GPU 玻璃、每帧零分配\n· 修复：深色模式闪退、快充页数字乱码、模块连接状态\n\n先更新 App 到 2.0，再更新模块。"
 }
