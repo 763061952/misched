@@ -1,7 +1,7 @@
 {
-  "version": "1.0.44",
-  "versionCode": 144,
-  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v1.0.44.apk",
-  "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_1.0.20.zip",
-  "notes": "v1.0.44\n\n· 模式页五档改为六档：新增「智能」\n· 智能档：游戏/相机自动提性能，熄屏自动省电\n· 模式页新增「pdd 引擎」实时状态卡：引擎 / 当前档位 / 应用规则\n\n先更新 App 到 1.0.44，再更新模块 1.0.20。"
+  "version": "1.0.45",
+  "versionCode": 145,
+  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v1.0.45.apk",
+  "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_1.0.21.zip",
+  "notes": "v1.0.45\n\n· 引擎不再限定 O3 机型：没有 xr_thermal 通道的机型自动跳过校验\n· 引擎启动失败自动回退内置五档写频，不会卡死\n· 智能档、pdd 引擎状态卡、六档模式页\n\n先更新 App 到 1.0.45，再更新模块 1.0.21。"
 }
