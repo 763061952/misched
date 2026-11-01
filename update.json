@@ -1,7 +1,7 @@
 {
-  "version": "1.0.40",
-  "versionCode": 140,
-  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v1.0.40.apk",
+  "version": "1.0.41",
+  "versionCode": 141,
+  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v1.0.41.apk",
   "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_1.0.19.zip",
-  "notes": "v1.0.40\n\n· 修复温度伪装开了又自动关\n· 开五档关闭伪装、开伪装后不套五档（互斥）\n· 新增「充电不自动开快充」（关于 → 系统检查）\n· 新增「退出游戏保持伪装」（游戏页）\n\n先更新 App，再更新模块 1.0.19（模块也有更新）。"
+  "notes": "v1.0.41\n\n· 内置 O3 原生调度引擎（uperf + native-guard）\n· 五档切换统一接管：频率、cpuset、前后台 uclamp 上限\n· 五套温控阈值：smart / balanced / powersave / performance / game\n· 按应用分档：相机 → 性能，游戏 → 游戏档\n· 内置游戏识别库\n\n先更新 App，再更新模块 1.0.19（模块含引擎，约 1.1MB）。"
 }
