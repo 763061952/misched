@@ -1,7 +1,7 @@
 {
-  "version": "1.0.41",
-  "versionCode": 141,
-  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v1.0.41.apk",
-  "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_1.0.19.zip",
-  "notes": "v1.0.41\n\n· 内置 O3 原生调度引擎（uperf + native-guard）\n· 五档切换统一接管：频率、cpuset、前后台 uclamp 上限\n· 五套温控阈值：smart / balanced / powersave / performance / game\n· 按应用分档：相机 → 性能，游戏 → 游戏档\n· 内置游戏识别库\n\n先更新 App，再更新模块 1.0.19（模块含引擎，约 1.1MB）。"
+  "version": "1.0.43",
+  "versionCode": 143,
+  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v1.0.43.apk",
+  "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_1.0.20.zip",
+  "notes": "v1.0.43\n\n· 内置 pdd 调度引擎\n· 五档新增「智能」：游戏/相机自动提性能，熄屏自动省电\n· App 新增「pdd 引擎」状态卡：引擎状态 / 当前档位 / 应用规则\n· 五套温控阈值、按应用分档、内置游戏库\n\n先更新 App 到 1.0.43，再更新模块 1.0.20。"
 }
