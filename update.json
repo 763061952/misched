@@ -1,7 +1,7 @@
 {
-  "version": "1.0.34",
-  "versionCode": 134,
-  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v1.0.34.apk",
+  "version": "1.0.40",
+  "versionCode": 140,
+  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v1.0.40.apk",
   "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_1.0.19.zip",
-  "notes": "v1.0.34\n\n新增：\n· 游戏页：退出游戏保持伪装\n· 关于页模块卡：充电不自动开快充\n\n先更新 App，再更新模块 1.0.19（模块也有更新）。"
+  "notes": "v1.0.40\n\n· 修复温度伪装开了又自动关\n· 开五档关闭伪装、开伪装后不套五档（互斥）\n· 新增「充电不自动开快充」（关于 → 系统检查）\n· 新增「退出游戏保持伪装」（游戏页）\n\n先更新 App，再更新模块 1.0.19（模块也有更新）。"
 }
