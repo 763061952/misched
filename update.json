@@ -2,6 +2,6 @@
   "version": "2.0.79",
   "versionCode": 279,
   "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.0.79.apk",
-  "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_1.1.16.zip",
+  "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_1.1.17.zip",
   "notes": "稳定版\n\n· 新增快充通道\n· 自适应引擎：自动识别机型与硬件\n· 修复已知问题\n\n先更新 App，再更新模块。"
 }
