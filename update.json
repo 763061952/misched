@@ -1,7 +1,7 @@
 {
-  "version": "2.0.84",
-  "versionCode": 284,
-  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.0.84.apk",
-  "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_1.1.18.zip",
-  "notes": "稳定版\n\n· 新增快充通道\n· 自适应引擎\n· 系统设置：一键开关装饰动画\n· 全面性能优化：滑动零掉帧\n· 修复已知问题\n\n先更新 App，再更新模块。"
+  "version": "2.0.85",
+  "versionCode": 285,
+  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.0.85.apk",
+  "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_1.1.19.zip",
+  "notes": "稳定版\n\n· 五档与伪装温度解耦，切档不再关闭伪装\n· 进程托管 30 秒扫描，已绑定不再轮换\n· 新增玻璃风格切换\n· 修复已知问题\n\n先更新 App，再更新模块。"
 }
