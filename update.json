@@ -1,7 +1,7 @@
 {
-  "version": "2.0.85",
-  "versionCode": 285,
-  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.0.85.apk",
-  "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_1.1.19.zip",
-  "notes": "稳定版\n\n· 五档与伪装温度解耦，切档不再关闭伪装\n· 进程托管 30 秒扫描，已绑定不再轮换\n· 新增玻璃风格切换\n· 修复已知问题\n\n先更新 App，再更新模块。"
+  "version": "2.0.86",
+  "versionCode": 286,
+  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.0.86.apk",
+  "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_1.1.20.zip",
+  "notes": "稳定版\n\n· 智能模式重构：按 CPU 负载自动选档，不再关闭伪装\n· 恢复 0.5 秒写频，档位 40/65/78/92%\n· 游戏白名单放开频率，不再锁频\n· 游戏模式开关记住设置\n· 修复已知问题\n\n先更新 App，再更新模块。"
 }
