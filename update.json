@@ -1,7 +1,7 @@
 {
-  "version": "2.0.88",
-  "versionCode": 288,
-  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.0.88.apk",
-  "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_1.1.22.zip",
-  "notes": "稳定版\n\n· 修复温度伪装写入顺序，CPU 温度不再固定 45 度\n· 极速档不写频率，交还官方调度\n· 快充双档：默认更凉，功率不稳定切强档\n· 智能模式按负载选档，不关闭伪装\n· 游戏白名单放开频率\n\n先更新 App，再更新模块。"
+  "version": "2.0.90",
+  "versionCode": 290,
+  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.0.90.apk",
+  "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_1.1.23.zip",
+  "notes": "稳定版\n\n· 修复 shell-thermal 温控区未使用 PA 温度区间，解决玄戒 O3 锁帧/限频\n· 修复 CPU 温度固定 45 度\n· 五档记忆持久化，重启后恢复\n· 极速档完全交还官方调度\n"
 }
