@@ -1,7 +1,7 @@
 {
-  "version": "2.0.90",
-  "versionCode": 290,
-  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.0.90.apk",
-  "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_1.1.23.zip",
-  "notes": "稳定版\n\n· 修复 shell-thermal 温控区未使用 PA 温度区间，解决玄戒 O3 锁帧限频\n· 修复 CPU 温度固定 45 度\n· 五档记忆持久化\n· 极速档交还官方调度\n· 快充双档\n· 智能模式按负载选档\n"
+  "version": "2.0.93",
+  "versionCode": 293,
+  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.0.93.apk",
+  "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_1.1.24.zip",
+  "notes": "稳定版\n\n· 修复切到快充页卡顿约 1 秒\n· 修复智能档点击后不生效\n· 修复关闭亮屏快充后插电仍自动开启\n· 引擎状态每秒刷新\n· 息屏检测改为直读节点\n"
 }
