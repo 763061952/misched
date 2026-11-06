@@ -1,7 +1,7 @@
 {
-  "version": "2.0.94",
-  "versionCode": 294,
-  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.0.94.apk",
+  "version": "2.0.95",
+  "versionCode": 295,
+  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.0.95.apk",
   "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_1.1.24.zip",
-  "notes": "稳定版\n\n· 移除「CPU 实测」卡片\n"
+  "notes": "稳定版\n\n· 移除「系统检查」卡片\n"
 }
