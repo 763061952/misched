@@ -1,7 +1,7 @@
 {
-  "version": "2.0.96",
-  "versionCode": 296,
-  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.0.96.apk",
-  "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_1.1.24.zip",
-  "notes": "稳定版\n\n· 修复芯片卡 SoC 型号识别，恢复全部机型识别\n· 修复鸟居图芯片型号不跟随识别结果\n· 修复设备信息卡机型显示为型号代码\n· 设备信息卡恢复三格布局\n"
+  "version": "2.0.98",
+  "versionCode": 298,
+  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.0.98.apk",
+  "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_1.1.25.zip",
+  "notes": "稳定版\n\n· 新增控制中心快捷方式「亮屏快充」，一键开关\n· 充电不再自动打开亮屏快充，完全由快捷方式控制\n· 快捷方式状态有记忆力，重启后保持\n· 亮屏快充一比一还原米快充方式\n"
 }
