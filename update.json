@@ -1,7 +1,7 @@
 {
-  "version": "2.0.93",
-  "versionCode": 293,
-  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.0.93.apk",
+  "version": "2.0.94",
+  "versionCode": 294,
+  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.0.94.apk",
   "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_1.1.24.zip",
-  "notes": "稳定版\n\n· 修复切到快充页卡顿约 1 秒\n· 修复智能档点击后不生效\n· 修复关闭亮屏快充后插电仍自动开启\n· 引擎状态每秒刷新\n· 息屏检测改为直读节点\n"
+  "notes": "稳定版\n\n· 移除「CPU 实测」卡片\n"
 }
