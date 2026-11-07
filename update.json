@@ -1,7 +1,7 @@
 {
-  "version": "2.1.2",
-  "versionCode": 212,
-  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.1.2.apk",
-  "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_1.1.28.zip",
+  "version": "2.1.3",
+  "versionCode": 213,
+  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.1.3.apk",
+  "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_1.1.29.zip",
   "notes": "稳定版\n\n· 修复记账簿亮屏时长显示错误\n· 亮屏 + 息屏时长现在与会话总时长一致\n"
 }
