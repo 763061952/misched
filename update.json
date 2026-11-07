@@ -1,7 +1,7 @@
 {
-  "version": "2.1.1",
-  "versionCode": 211,
-  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.1.1.apk",
+  "version": "2.1.2",
+  "versionCode": 212,
+  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.1.2.apk",
   "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_1.1.28.zip",
-  "notes": "稳定版\n\n· 温度伪装全面覆盖，温度读数更稳定\n· 伪装关闭后完整还原\n· 游戏内伪装完全由用户手动控制\n"
+  "notes": "稳定版\n\n· 修复记账簿亮屏时长显示错误\n· 亮屏 + 息屏时长现在与会话总时长一致\n"
 }
