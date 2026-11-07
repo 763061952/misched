@@ -1,7 +1,7 @@
 {
-  "version": "2.1.0",
-  "versionCode": 210,
-  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.1.0.apk",
-  "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_1.1.26.zip",
-  "notes": "稳定版\n\n· 智能档修复：自动选档更稳，不再频繁跳档\n· 性能流畅度优化：系统响应更快，滑动更跟手\n· 后台应用运行更顺畅\n"
+  "version": "2.1.1",
+  "versionCode": 211,
+  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.1.1.apk",
+  "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_1.1.28.zip",
+  "notes": "稳定版\n\n· 温度伪装全面覆盖，温度读数更稳定\n· 伪装关闭后完整还原\n· 游戏内伪装完全由用户手动控制\n"
 }
