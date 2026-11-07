@@ -3,5 +3,5 @@
   "versionCode": 210,
   "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.1.0.apk",
   "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_1.1.26.zip",
-  "notes": "稳定版\n\n· 智能档修复：自动选档更稳，不再频繁跳档\n· 性能流畅度优化：关闭全部进程管理，不再绑核/冻结/限频\n· 刷入本版自动清理旧版残留的 cpuset、uclamp、热区限制\n· 后台应用不再被锁小核，抖音等应用恢复全核运行\n"
+  "notes": "稳定版\n\n· 智能档修复：自动选档更稳，不再频繁跳档\n· 性能流畅度优化：系统响应更快，滑动更跟手\n· 后台应用运行更顺畅\n"
 }
