@@ -1,7 +1,7 @@
 {
-  "version": "2.0.98",
-  "versionCode": 298,
-  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.0.98.apk",
+  "version": "2.0.99",
+  "versionCode": 299,
+  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.0.99.apk",
   "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_1.1.25.zip",
-  "notes": "稳定版\n\n· 新增控制中心快捷方式「亮屏快充」，一键开关\n· 充电不再自动打开亮屏快充，完全由快捷方式控制\n· 快捷方式状态有记忆力，重启后保持\n· 亮屏快充一比一还原米快充方式\n"
+  "notes": "稳定版\n\n· 性能优化：退后台停止动画，CPU 归零\n· 动画时钟空转停表\n· 滑动时动画正常播放\n"
 }
