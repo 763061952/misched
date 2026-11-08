@@ -1,7 +1,7 @@
 {
-  "version": "2.1.4",
-  "versionCode": 214,
-  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.1.4.apk",
-  "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_1.1.31.zip",
-  "notes": "稳定版\n\n· 新增高 CPU 占用进程自动限流，避免单个进程吃满核心导致发热卡顿\n· 限流按进程名识别，进程重新拉起后自动继续生效\n· 优化电池温度显示逻辑，避免低温误判\n"
+  "version": "2.1.5",
+  "versionCode": 215,
+  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.1.5.apk",
+  "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_1.1.32.zip",
+  "notes": "稳定版\n\n· 全局后台限速 5%，前台 100% 不限速\n· 输入法/键盘白名单\n· 高耗进程自动绑小核\n· 内存紧张自动释放后台\n· 智能档防跳档三重保护\n"
 }
