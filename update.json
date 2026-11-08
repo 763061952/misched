@@ -1,7 +1,7 @@
 {
-  "version": "2.1.8",
-  "versionCode": 218,
-  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.1.8.apk",
+  "version": "2.1.9",
+  "versionCode": 219,
+  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.1.9.apk",
   "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_1.1.36.zip",
-  "notes": "稳定版\n\n· 全局后台限速 5%，前台 100% 不限速\n· 输入法/键盘白名单\n· 高耗进程自动绑小核\n· 内存紧张自动释放后台\n· 智能档防跳档三重保护\n"
+  "notes": "稳定版\n\n· 全局后台限速 5%，前台 100% 不限速\n· 输入法/键盘白名单\n· 高耗进程自动绑小核\n· 内存紧张自动释放后台\n· 智能档防跳档三重保护\n\n下载失败请加 QQ 群 1084149959\n"
 }
