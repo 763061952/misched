@@ -1,7 +1,7 @@
 {
-  "version": "2.3.6",
-  "versionCode": 230,
-  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.3.6.apk",
+  "version": "2.4.10",
+  "versionCode": 242,
+  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.4.10.apk",
   "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_2.1.1.zip",
-  "notes": "修复 bug\n\n· 修复温度伪装与档位冲突导致的卡顿\n· 修复档位状态显示\n· 关于页新增「还原内核温控」，无需重启即可复原热控节点\n\n下载失败请加 QQ 群 1084149959\n"
+  "notes": "天冷了 新增个雪天主题 祝大家开心\n\n· 雪夜湖畔小屋 / 雪中道口末班列车\n· 浅色深色两套 · 默认开启\n\n下载失败请加 QQ 群 1084149959\n"
 }
