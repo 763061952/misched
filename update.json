@@ -1,7 +1,7 @@
 {
-  "version": "2.2.3",
-  "versionCode": 223,
-  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.2.3.apk",
-  "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_1.1.40.zip",
-  "notes": "稳定版\n\n· 性能流畅度优化\n· 系统响应更快\n\n下载失败请加 QQ 群 1084149959\n"
+  "version": "2.3.6",
+  "versionCode": 230,
+  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.3.6.apk",
+  "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_2.1.1.zip",
+  "notes": "修复 bug\n\n· 修复温度伪装与档位冲突导致的卡顿\n· 修复档位状态显示\n· 关于页新增「还原内核温控」，无需重启即可复原热控节点\n\n下载失败请加 QQ 群 1084149959\n"
 }
