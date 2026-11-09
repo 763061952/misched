@@ -1,7 +1,7 @@
 {
-  "version": "2.2.2",
-  "versionCode": 222,
-  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.2.2.apk",
-  "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_1.1.39.zip",
-  "notes": "稳定版\n\n· 精简进程管理，系统响应更快\n· 后台应用运行更顺畅\n· 温度伪装全面覆盖\n\n下载失败请加 QQ 群 1084149959\n"
+  "version": "2.2.3",
+  "versionCode": 223,
+  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.2.3.apk",
+  "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_1.1.40.zip",
+  "notes": "稳定版\n\n· 性能流畅度优化\n· 系统响应更快\n\n下载失败请加 QQ 群 1084149959\n"
 }
