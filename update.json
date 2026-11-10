@@ -3,5 +3,5 @@
   "versionCode": 333,
   "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.4.99.apk",
   "module": "https://github.com/763061952/misched/releases/latest/download/misched_core_2.1.4.zip",
-  "notes": "深色模式更新\n\n· 夜空紫→青渐变 · 篝火场景 · 三档星空\n· 液态/柔光玻璃可切换 · 去金去纸\n\n下载失败请加 QQ 群 1084149959\n"
+  "notes": "模块更新\n\n· UAF 限流 · 单实例锁 · 卸载彻底化\n\n下载失败请加 QQ 群 1084149959\n"
 }
