@@ -3,5 +3,5 @@
   "versionCode": 354,
   "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.4.119.apk",
   "module": "https://github.com/763061952/misched/releases/download/module-v2.1.8/misched_core_2.1.8.zip",
-  "notes": "新版液态玻璃效果\n\n· 液态玻璃 · 动态极光 · 篝火场景\n· 模糊强度可调 · 深色不发灰\n· 修复后台功耗\n\n下载失败请加 QQ 群 1084149959\n"
+  "notes": "模块更新 · 修复开关乱跳\n\n· 修复开关反复开关：清理历史残留的多实例\n· 单实例锁改进：进程被强杀也能自动接管\n· 启动清理失控 tr 空转进程（耗电元凶）\n· UAF 限流优化：改用 pgrep，不再产生进程垃圾\n\n本版仅更新模块，App 2.4.119 不变，装完重启模块即可生效。\n\n下载失败请加 QQ 群 1084149959\n"
 }
