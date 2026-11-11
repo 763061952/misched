@@ -1,7 +1,7 @@
 {
-  "version": "2.4.131",
-  "versionCode": 366,
-  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.4.131.apk",
+  "version": "2.4.151",
+  "versionCode": 386,
+  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.4.151.apk",
   "module": "https://github.com/763061952/misched/releases/download/module-v2.1.8/misched_core_2.1.8.zip",
-  "notes": "新增深色模式炫彩效果\n\n· 动态极光：雪夜三层竖向光幕（绿/青/紫）\n· 篝火场景：柴火、火苗、火星、雪地暖光\n· 星空分层 · 液态玻璃实时模糊 · 模糊强度可调\n\n修复记账簿bug\n\n· 拔线电量方向 · 本次用电充电时乱跳\n· 累计 Wh 按功率积分 · 充满后停止计时\n· 电池健康度显示 · 版本误报修复\n\n更新 App 后请一并更新模块至 v2.1.8。\n\n下载失败请加 QQ 群 1084149959\n"
+  "notes": "新增阿勒泰雪屋主题\n\n· 参照禾木雪屋实拍重做芯片主图\n· 浅色=蓝紫暮色雪屋 · 深色=深蓝雪夜（自动跟随）\n· 厚雪A字尖顶 · 原木墙 · 多格暖窗 · 木门雪阶\n· 挂雪松 · 雪人 · 木栅栏 · 雪地马灯 · 斜向飘雪\n· 设置里可切回旧湖畔小屋\n\n更新 App 后请一并更新模块至 v2.1.8。\n\n下载失败请加 QQ 群 1084149959\n"
 }
