@@ -1,7 +1,7 @@
 {
-  "version": "2.4.119",
-  "versionCode": 354,
-  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.4.119.apk",
+  "version": "2.4.131",
+  "versionCode": 366,
+  "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.4.131.apk",
   "module": "https://github.com/763061952/misched/releases/download/module-v2.1.8/misched_core_2.1.8.zip",
-  "notes": "模块更新\n\n· 修复开关反复开关\n· 单实例锁改进，进程被强杀也能自动接管\n· 清理失控进程，降低后台功耗\n\n装完重启模块生效，App 无需更新。\n\n下载失败请加 QQ 群 1084149959\n"
+  "notes": "修复记账簿bug\n\n· 修复拔线电量方向反了 · 本次用电充电时乱跳\n· 累计 Wh 正确按功率积分 · 充满后停止计时\n· 电池健康度显示修正 · 版本误报修复\n\n下载失败请加 QQ 群 1084149959\n"
 }
