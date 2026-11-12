@@ -2,6 +2,6 @@
   "version": "2.4.153",
   "versionCode": 388,
   "apk": "https://github.com/763061952/misched/releases/latest/download/AutoPower_v2.4.153.apk",
-  "module": "https://github.com/763061952/misched/releases/download/module-v2.1.8/misched_core_2.1.8.zip",
-  "notes": "修复记账簿滑动卡顿\n\n· 应用耗电统计改后台线程，主线程不再阻塞\n· 退后台彻底停止刷新，零功耗\n\n更新 App 后请一并更新模块至 v2.1.8。\n\n下载失败请加 QQ 群 1084149959\n"
+  "module": "https://github.com/763061952/misched/releases/download/module-v2.1.9/misched_core_2.1.9.zip",
+  "notes": "模块性能优化\n\n· CPU 占用 36% → 0.2%（60秒仅12 ticks）\n· 电池读取零 fork · 功率计算纯 shell\n· 状态写入批量合并 · 刷新周期 5→10 秒\n\n本版仅更新模块，App 无需更新，装完重启模块生效。\n\n下载失败请加 QQ 群 1084149959\n"
 }
