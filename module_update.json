@@ -1,0 +1,6 @@
+{
+  "version": "2.1.9",
+  "versionCode": 219,
+  "module": "https://github.com/763061952/misched/releases/download/module-v2.1.9/misched_core_2.1.9.zip",
+  "notes": "模块性能优化\n\n· CPU 占用 36% → 0.2%（60秒仅12 ticks）\n· 电池读取零 fork · 功率计算纯 shell\n· 状态写入批量合并 · 刷新周期 5→10 秒\n\n装完重启模块生效，App 无需更新。\n\n下载失败请加 QQ 群 1084149959\n"
+}
