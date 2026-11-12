@@ -1,7 +1,7 @@
 {
-  "version": "2.4.210",
+  "version": "2.4.211",
   "versionCode": 388,
-  "apk": "https://github.com/763061952/misched/releases/download/v2.4.210/AutoPower_v2.4.210.apk",
+  "apk": "https://github.com/763061952/misched/releases/download/v2.4.211/AutoPower_v2.4.211.apk",
   "module": "https://github.com/763061952/misched/releases/download/module-v2.2.0/misched_core_2.2.0.zip",
-  "notes": "恢复稳定版记账簿\n\n· 恢复原版「授权使用情况」记账簿\n· 本次用电 / 累计 Wh / 应用耗电 / 充电记录 / 亮屏熄屏\n· 撤销实验性记账簿改版\n\n更新 App 后请一并更新模块至 v2.2.0。\n\n下载失败请加 QQ 群 1084149959\n"
+  "notes": "恢复稳定版记账簿\n\n· 恢复原版「授权使用情况」记账簿\n· 本次用电 / 累计 Wh / 应用耗电 / 充电记录 / 亮屏熄屏\n\n更新 App 后请一并更新模块至 v2.2.0。\n\n下载失败请加 QQ 群 1084149959\n"
 }
