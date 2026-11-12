@@ -1,7 +1,7 @@
 {
-  "version": "2.4.190",
-  "versionCode": 425,
-  "apk": "https://github.com/763061952/misched/releases/download/v2.4.190/AutoPower_v2.4.190.apk",
-  "module": "https://github.com/763061952/misched/releases/download/module-v2.1.9/misched_core_2.1.9.zip",
-  "notes": "记账簿全面重做 + 模块性能优化\n\n【记账簿】\n· root 直读，无需授权使用情况访问\n· 已耗 mAh + 占电池 % + 平均功耗 W\n· 六项细分：屏幕/CPU/移动网络/蓝牙/其他/未分项\n· 应用排行：使用时长、后台占比、唤醒、冻结\n· 中文 MiSans + 数字 Nunito 圆体\n\n【模块 v2.1.9】\n· CPU 占用 36% → 0.2%\n· 电池读取零 fork、批量写状态\n\n更新 App 后请一并更新模块至 v2.1.9。\n\n下载失败请加 QQ 群 1084149959\n"
+  "version": "2.4.200",
+  "versionCode": 388,
+  "apk": "https://github.com/763061952/misched/releases/download/v2.4.200/AutoPower_v2.4.200.apk",
+  "module": "https://github.com/763061952/misched/releases/download/module-v2.2.0/misched_core_2.2.0.zip",
+  "notes": "回退到稳定版\n\n· 回退到 v2.4.153（修复记账簿滑动卡顿）\n· 撤销实验性记账簿改版\n· 液态玻璃、雪天主题、极光不变\n\n更新 App 后请一并更新模块至 v2.2.0。\n\n下载失败请加 QQ 群 1084149959\n"
 }
