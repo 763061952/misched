@@ -1,7 +1,7 @@
 {
-  "version": "2.4.217",
-  "versionCode": 455,
-  "apk": "https://github.com/763061952/misched/releases/download/v2.4.217/AutoPower_v2.4.217.apk",
+  "version": "2.4.222",
+  "versionCode": 460,
+  "apk": "https://github.com/763061952/misched/releases/download/v2.4.222/AutoPower_v2.4.222.apk",
   "module": "https://github.com/763061952/misched/releases/download/module-v2.2.1/misched_core_2.2.1.zip",
-  "notes": "修复已知bug 记得更新模块\n\n下载失败请加 QQ 群 1084149959\n"
+  "notes": "修复记账簿bug\n\n下载失败请加 QQ 群 1084149959\n"
 }
