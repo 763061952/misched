@@ -1,6 +1,6 @@
 {
-  "version": "2.3.3",
-  "versionCode": 233,
-  "module": "https://github.com/763061952/misched/releases/download/module-v2.3.3/misched_core_2.3.3.zip",
-  "notes": "三档智能限流 QQ/微信\n\n· 熄屏 → 绑小核 + 算力20%\n· 亮屏但QQ微信在后台 → 绑小核 + 算力20%\n· 亮屏且QQ微信在前台 → 不绑，满速\n\n不杀进程不冻结，消息照收。\n模块CPU开销 0.75%，切前台立即解绑。\n\n装完重启模块生效。下载失败请加 QQ 群 1084149959\n"
+  "version": "2.4.0",
+  "versionCode": 240,
+  "module": "https://github.com/763061952/misched/releases/download/module-v2.4.0/misched_core_2.4.0.zip",
+  "notes": "全应用智能算力调度\n\n· 前台满速 / 后台收敛+能效小核 / 熄屏全局收敛\n· 内核级调度，不杀进程不冻结，消息照常\n· 零常驻开销，模块 CPU 0.75%\n\n装完重启模块生效。下载失败请加 QQ 群 1084149959\n"
 }
