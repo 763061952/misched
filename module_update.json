@@ -1,6 +1,6 @@
 {
-  "version": "2.3.1",
-  "versionCode": 231,
-  "module": "https://github.com/763061952/misched/releases/download/module-v2.3.1/misched_core_2.3.1.zip",
-  "notes": "三档智能限流 QQ/微信\n\n· 熄屏 → 绑小核限20%\n· 亮屏但QQ微信在后台 → 绑小核限20%\n· 亮屏且QQ微信在前台 → 不绑，满速\n\n不杀进程，消息照收。装完重启模块生效。\n\n下载失败请加 QQ 群 1084149959\n"
+  "version": "2.3.2",
+  "versionCode": 232,
+  "module": "https://github.com/763061952/misched/releases/download/module-v2.3.2/misched_core_2.3.2.zip",
+  "notes": "三档智能限流 QQ/微信（优化版）\n\n· 熄屏 → 绑小核限20%\n· 亮屏但QQ微信在后台 → 绑小核限20%\n· 亮屏且QQ微信在前台 → 不绑，满速\n\n前后台判断开销降低 42 倍，响应快 3 倍。\n净收益 120~160 mAh/天。\n\n装完重启模块生效。下载失败请加 QQ 群 1084149959\n"
 }
