@@ -1,6 +1,6 @@
 {
-  "version": "2.2.1",
-  "versionCode": 221,
-  "module": "https://github.com/763061952/misched/releases/download/module-v2.2.1/misched_core_2.2.1.zip",
-  "notes": "模块更新 · 单实例指纹锁 + 性能优化"
+  "version": "2.2.2",
+  "versionCode": 222,
+  "module": "https://github.com/763061952/misched/releases/download/module-v2.2.2/misched_core_2.2.2.zip",
+  "notes": "模块更新 · 拔电记录写入独立文件"
 }
