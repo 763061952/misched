@@ -1,6 +1,6 @@
 {
-  "version": "2.3.0",
-  "versionCode": 230,
-  "module": "https://github.com/763061952/misched/releases/download/module-v2.3.0/misched_core_2.3.0.zip",
-  "notes": "息屏自动限 QQ/微信\n\n· 息屏时绑小核 + 算力限 20%\n· 亮屏立即解绑，不影响流畅度\n· 消息照常接收\n\n装完重启模块生效。\n\n下载失败请加 QQ 群 1084149959\n"
+  "version": "2.3.1",
+  "versionCode": 231,
+  "module": "https://github.com/763061952/misched/releases/download/module-v2.3.1/misched_core_2.3.1.zip",
+  "notes": "三档智能限流 QQ/微信\n\n· 熄屏 → 绑小核限20%\n· 亮屏但QQ微信在后台 → 绑小核限20%\n· 亮屏且QQ微信在前台 → 不绑，满速\n\n不杀进程，消息照收。装完重启模块生效。\n\n下载失败请加 QQ 群 1084149959\n"
 }
