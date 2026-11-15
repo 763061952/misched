@@ -3,5 +3,5 @@
   "versionCode": 482,
   "apk": "https://github.com/763061952/misched/releases/download/v2.4.244/AutoPower_v2.4.244.apk",
   "module": "https://github.com/763061952/misched/releases/download/module-v2.4.0/misched_core_2.4.0.zip",
-  "notes": "快充页新增耗电分析\n\n· 快充页内可展开卡片，点击即用\n· 一句话诊断 · 真实放电轨迹 · 耗电归因\n· 应用排行带图标、前后台时长、后台异常标记\n· 三主题配色同步\n\n下载失败请加 QQ 群 1084149959\n"
+  "notes": "快充页新增耗电分析\n\n· 快充页内可展开卡片，点击即用\n· 一句话诊断 · 真实放电轨迹 · 耗电归因\n· 应用排行带图标、前后台时长、后台异常标记\n· 三主题配色同步\n\n模块同步升级\n全应用智能算力调度：前台满速、后台收敛至能效小核、熄屏全局收敛。\n内核级策略，不杀进程不冻结，消息照常接收。\n\n下载失败请加 QQ 群 1084149959\n"
 }
