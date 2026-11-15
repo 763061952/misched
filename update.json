@@ -1,7 +1,7 @@
 {
-  "version": "2.4.231",
-  "versionCode": 469,
-  "apk": "https://github.com/763061952/misched/releases/download/v2.4.231/AutoPower_v2.4.231.apk",
-  "module": "https://github.com/763061952/misched/releases/download/module-v2.2.2/misched_core_2.2.2.zip",
-  "notes": "修复记账簿bug\n\n下载失败请加 QQ 群 1084149959\n"
+  "version": "2.4.240",
+  "versionCode": 478,
+  "apk": "https://github.com/763061952/misched/releases/download/v2.4.240/AutoPower_v2.4.240.apk",
+  "module": "https://github.com/763061952/misched/releases/download/module-v2.4.0/misched_core_2.4.0.zip",
+  "notes": "耗电分析重做\n\n· 诊断为主线 · 真实放电轨迹 · 耗电归因\n· 应用排行带图标、前后台时长、后台异常标记\n· 融合为快充页内折叠卡，三主题同步\n\n下载失败请加 QQ 群 1084149959\n"
 }
