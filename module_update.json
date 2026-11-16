@@ -1,6 +1,6 @@
 {
-  "version": "2.4.1",
-  "versionCode": 241,
-  "module": "https://github.com/763061952/misched/releases/download/module-v2.4.1/misched_core_2.4.1.zip",
-  "notes": "智能档全面升级\n\n· 极致省电压到 20%（实测超大核 2.54GHz→691MHz）\n· 智能档多维决策：充电不限/熄屏压/低电量保命/高温降热/按负载三档\n· 修复 uclamp 与档位引擎冲突\n\n装完重启模块生效。下载失败请加 QQ 群 1084149959\n"
+  "version": "2.4.2",
+  "versionCode": 242,
+  "module": "https://github.com/763061952/misched/releases/download/module-v2.4.2/misched_core_2.4.2.zip",
+  "notes": "相机取景不再卡顿\n\n· 打开相机自动释放限频，退出后恢复档位\n· 关闭温度伪装时一并还原热控（清假温度、热区回 enabled）\n\n装完重启模块生效。下载失败请加 QQ 群 1084149959\n"
 }
