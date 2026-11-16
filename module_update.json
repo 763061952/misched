@@ -1,6 +1,6 @@
 {
-  "version": "2.4.2",
-  "versionCode": 242,
-  "module": "https://github.com/763061952/misched/releases/download/module-v2.4.2/misched_core_2.4.2.zip",
-  "notes": "相机取景不再卡顿\n\n· 打开相机自动释放限频，退出后恢复档位\n· 关闭温度伪装时一并还原热控（清假温度、热区回 enabled）\n\n装完重启模块生效。下载失败请加 QQ 群 1084149959\n"
+  "version": "2.4.3",
+  "versionCode": 243,
+  "module": "https://github.com/763061952/misched/releases/download/module-v2.4.3/misched_core_2.4.3.zip",
+  "notes": "修复游戏小窗掉帧\n\n· 相机识别不再误判常驻服务，白名单状态正常恢复\n· 小窗游戏恢复满算力，不再被限到 20%\n· 模块 CPU 0.9%\n\n装完重启模块生效。下载失败请加 QQ 群 1084149959\n"
 }
