@@ -1,6 +1,6 @@
 {
-  "version": "2.4.3",
-  "versionCode": 243,
-  "module": "https://github.com/763061952/misched/releases/download/module-v2.4.3/misched_core_2.4.3.zip",
-  "notes": "修复游戏小窗掉帧\n\n· 相机识别不再误判常驻服务，白名单状态正常恢复\n· 小窗游戏恢复满算力，不再被限到 20%\n· 模块 CPU 0.9%\n\n装完重启模块生效。下载失败请加 QQ 群 1084149959\n"
+  "version": "2.5.0",
+  "versionCode": 250,
+  "module": "https://github.com/763061952/misched/releases/download/module-v2.5.0/misched_core_2.5.0.zip",
+  "notes": "融合官方省电策略\n\n· 照抄 Android BatterySaverPolicy + Doze\n· 极致/省电档自动开系统省电+收紧Doze+后台扫描降频\n· 均衡档保体验，性能档完全还原官方\n· 保留此前全部优化，模块CPU 1%\n\n装完重启模块生效。下载失败请加 QQ 群 1084149959\n"
 }
