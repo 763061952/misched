@@ -1,7 +1,7 @@
 {
-  "version": "2.4.271",
-  "versionCode": 509,
-  "apk": "https://github.com/763061952/misched/releases/download/v2.4.271/AutoPower_v2.4.271.apk",
+  "version": "2.4.275",
+  "versionCode": 513,
+  "apk": "https://github.com/763061952/misched/releases/download/v2.4.275/AutoPower_v2.4.275.apk",
   "module": "https://github.com/763061952/misched/releases/download/module-v2.5.1/misched_core_2.5.1.zip",
   "notes": "日系主题：彗星穿云背景\n\n· 白天浅蓝天空、层叠白云、暖白彗星，卡片半透明白玻璃\n· 夜间深蓝夜空、冷灰云带、底部山影、冰蓝彗星\n· 设置里可切回富士樱花\n· 修复白天文字看不清、米黄牛皮纸底全部换白玻璃\n\n模块优化 v2.5.1\n· 融合官方省电策略，全档位生效\n· 后台统一 0.20 算力 + 绑小核\n· Doze 白名单按档位收紧，通讯类保留\n· 亮屏 App Standby 冻结后台\n· 模块 CPU 0.62%\n\n下载失败请加 QQ 群 1084149959\n"
 }
