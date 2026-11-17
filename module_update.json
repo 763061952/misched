@@ -1,6 +1,6 @@
 {
-  "version": "2.5.1",
-  "versionCode": 251,
-  "module": "https://github.com/763061952/misched/releases/download/module-v2.5.1/misched_core_2.5.1.zip",
-  "notes": "官方省电全档位生效\n\n· 所有档位开启系统省电模式（App Standby/防火墙/关传感器/关AOD）\n· 所有档位后台固定 0.20 算力 + 绑小核 0-3\n· 前台按档位：极致20/省电60/均衡80/性能95/极速不限\n· Doze 白名单按档位收紧，通讯类始终保留\n\n装完重启模块生效。下载失败请加 QQ 群 1084149959\n"
+  "version": "2.5.2",
+  "versionCode": 252,
+  "module": "https://github.com/763061952/misched/releases/download/module-v2.5.2/misched_core_2.5.2.zip",
+  "notes": "降低模块自身耗电\n\n· 减少 fork：read内建替代sed/head、时间戳主循环统一维护\n· App Standby只在省电档跑，热拔电采样60s→120s\n· 主循环sleep1→2（周期等比例补偿，实际间隔不变）\n· 模块CPU 0.65%→0.55%（约33mAh/天）\n\n装完重启模块生效。下载失败请加 QQ 群 1084149959\n"
 }
