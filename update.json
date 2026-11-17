@@ -3,5 +3,5 @@
   "versionCode": 516,
   "apk": "https://github.com/763061952/misched/releases/download/v2.4.278/AutoPower_v2.4.278.apk",
   "module": "https://github.com/763061952/misched/releases/download/module-v2.5.2/misched_core_2.5.2.zip",
-  "notes": "修复记账簿亮屏/息屏时间错乱\n\n· 所有分支统一用「拔电到现在」的会话窗口约束，亮屏+息屏=会话时长\n· 系统 Time on battery 交叉校验，过期基线自动纠正\n· 全程平均功耗口径修正，不再出现几十瓦\n· 新增记账簿自检，异常写日志\n\n模块 v2.5.2：全簇写频引擎，后台统一 0.20+绑小核。\n\n下载失败请加 QQ 群 1084149959\n"
+  "notes": "修复记账簿\n\n更新 App 后请一并更新模块。\n下载失败请加 QQ 群 1084149959\n"
 }
