@@ -1,6 +1,6 @@
 {
-  "version": "2.5.3",
-  "versionCode": 253,
-  "module": "https://github.com/763061952/misched/releases/download/module-v2.5.3/misched_core_2.5.3.zip",
-  "notes": "修复已知bug\n\n装完重启模块生效。\n下载失败请加 QQ 群 1084149959\n"
+  "version": "4.0.0",
+  "versionCode": 400,
+  "module": "https://github.com/763061952/misched/releases/download/module-v4.0.0/misched_core_4.0.0.zip",
+  "notes": "重构为纯命令驱动，零常驻进程\n\n装完重启模块生效。\n下载失败请加 QQ 群 1084149959\n"
 }
