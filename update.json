@@ -1,7 +1,7 @@
 {
-  "version": "2.4.278",
-  "versionCode": 516,
-  "apk": "https://github.com/763061952/misched/releases/download/v2.4.278/AutoPower_v2.4.278.apk",
-  "module": "https://github.com/763061952/misched/releases/download/module-v2.5.2/misched_core_2.5.2.zip",
-  "notes": "修复记账簿\n\n更新 App 后请一并更新模块。\n下载失败请加 QQ 群 1084149959\n"
+  "version": "2.4.294",
+  "versionCode": 532,
+  "apk": "https://github.com/763061952/misched/releases/download/v2.4.294/AutoPower_v2.4.294.apk",
+  "module": "https://github.com/763061952/misched/releases/download/module-v3.0.0/misched_core_3.0.0.zip",
+  "notes": "修复记账簿\n\n模块 v3.0.0 重构成纯命令驱动：无主循环、无常驻进程、无定时采样。\n档位/伪装/快充一次性写入，亮屏熄屏都是 0 占用。\n\n同时修复：\n· 耗电归因六项数据错乱（CPU 异常占 97%）\n· 应用排行数值虚高\n· 记账簿亮屏/息屏时长口径不一致\n\n下载失败请加 QQ 群 1084149959\n"
 }
