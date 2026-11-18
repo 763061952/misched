@@ -1,6 +1,6 @@
 {
-  "version": "2.5.2",
-  "versionCode": 252,
-  "module": "https://github.com/763061952/misched/releases/download/module-v2.5.2/misched_core_2.5.2.zip",
-  "notes": "降低模块自身耗电\n\n· 减少 fork：read内建替代sed/head、时间戳主循环统一维护\n· App Standby只在省电档跑，热拔电采样60s→120s\n· 主循环sleep1→2（周期等比例补偿，实际间隔不变）\n· 模块CPU 0.65%→0.55%（约33mAh/天）\n\n装完重启模块生效。下载失败请加 QQ 群 1084149959\n"
+  "version": "2.5.3",
+  "versionCode": 253,
+  "module": "https://github.com/763061952/misched/releases/download/module-v2.5.3/misched_core_2.5.3.zip",
+  "notes": "修复已知bug\n\n装完重启模块生效。\n下载失败请加 QQ 群 1084149959\n"
 }
