@@ -2,5 +2,5 @@
   "version": "3.0.0",
   "versionCode": 300,
   "module": "https://github.com/763061952/misched/releases/download/module-v3.0.0/misched_core_3.0.0.zip",
-  "notes": "重构模块\n\n装完重启模块生效。\n下载失败请加 QQ 群 1084149959\n"
+  "notes": "优化待机耗电 · 重构模块\n\n· 重构成纯命令驱动：无主循环、无常驻进程、无定时采样\n· 档位/伪装/快充一次性写入，写完即退出\n· 亮屏熄屏均 0 CPU 占用\n· 五档 + 后台恒 20% + 官方省电策略保留\n\n装完重启模块生效。下载失败请加 QQ 群 1084149959\n"
 }
