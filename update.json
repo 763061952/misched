@@ -1,7 +1,7 @@
 {
-  "version": "2.4.314",
-  "versionCode": 550,
-  "apk": "https://github.com/763061952/misched/releases/download/v2.4.314/AutoPower_v2.4.314.apk",
-  "module": "https://github.com/763061952/misched/releases/download/module-v3.1.0/misched_core_3.1.0.zip",
-  "notes": "修复已知bug\n\n更新 App 后请一并更新模块。\n下载失败请加 QQ 群 1084149959\n"
+  "version": "2.4.325",
+  "versionCode": 561,
+  "apk": "https://github.com/763061952/misched/releases/download/v2.4.325/AutoPower_v2.4.325.apk",
+  "module": "https://github.com/763061952/misched/releases/download/module-v3.2.0/misched_core_3.2.0.zip",
+  "notes": "修复记账簿\n\n模块 v3.2.0：插拔电采样移交 App，模块不再轮询。\n\n下载失败请加 QQ 群 1084149959\n"
 }
