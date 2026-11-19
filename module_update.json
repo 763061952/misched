@@ -1,6 +1,6 @@
 {
-  "version": "3.1.0",
-  "versionCode": 310,
-  "module": "https://github.com/763061952/misched/releases/download/module-v3.1.0/misched_core_3.1.0.zip",
-  "notes": "修复已知bug\n\n装完重启生效。下载失败请加 QQ 群 1084149959\n"
+  "version": "3.2.0",
+  "versionCode": 320,
+  "module": "https://github.com/763061952/misched/releases/download/module-v3.2.0/misched_core_3.2.0.zip",
+  "notes": "修复已知bug\n\n插拔电采样移交 App，模块不再轮询采样。\n装完重启生效。下载失败请加 QQ 群 1084149959\n"
 }
