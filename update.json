@@ -1,7 +1,7 @@
 {
-  "version": "2.4.300",
-  "versionCode": 538,
-  "apk": "https://github.com/763061952/misched/releases/download/v2.4.300/AutoPower_v2.4.300.apk",
-  "module": "https://github.com/763061952/misched/releases/download/module-v3.0.0/misched_core_3.0.0.zip",
-  "notes": "修复记账簿\n\n· 耗电归因六项数据修正\n· 应用排行数值与百分比修正\n· 排行置顶显示模块自身占用（实测 0%）\n· 「内核」更名为「系统底层」\n· 本次用电与电量消耗口径统一\n\n模块 v3.0.0：纯命令驱动，零常驻进程。\n\n下载失败请加 QQ 群 1084149959\n"
+  "version": "2.4.302",
+  "versionCode": 540,
+  "apk": "https://github.com/763061952/misched/releases/download/v2.4.302/AutoPower_v2.4.302.apk",
+  "module": "https://github.com/763061952/misched/releases/download/module-v3.0.2/misched_core_3.0.2.zip",
+  "notes": "修复记账簿\n\n· 耗电归因六项数据修正\n· 应用排行数值与百分比修正\n· 排行置顶显示模块自身占用（实测 0%）\n· 「内核」更名为「系统底层」\n· 本次用电与电量消耗口径统一\n· 打开 App 自动重下发档位，恢复被重置的限流\n\n模块 v3.0.2：纯命令驱动，无主循环、无常驻进程；刷入时清理旧版残留。\n\n下载失败请加 QQ 群 1084149959\n"
 }
