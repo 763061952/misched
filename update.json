@@ -2,6 +2,6 @@
   "version": "2.4.326",
   "versionCode": 562,
   "apk": "https://github.com/763061952/misched/releases/download/v2.4.326/AutoPower_v2.4.326.apk",
-  "module": "https://github.com/763061952/misched/releases/download/module-v3.3.0/misched_core_3.3.0.zip",
+  "module": "https://github.com/763061952/misched/releases/download/module-v3.3.1/misched_core_3.3.1.zip",
   "notes": "修复记账簿\n\n· 插拔电识别改为静态广播，App 不在前台也能记录\n· 模块不再轮询采样插拔电，零常驻\n· 记账簿时长/电量/亮屏息屏口径统一\n\n下载失败请加 QQ 群 1084149959\n"
 }
