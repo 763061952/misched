@@ -1,6 +1,6 @@
 {
-  "version": "3.3.3",
-  "versionCode": 333,
-  "module": "https://github.com/763061952/misched/releases/download/module-v3.3.3/misched_core_3.3.3.zip",
+  "version": "3.3.5",
+  "versionCode": 335,
+  "module": "https://github.com/763061952/misched/releases/download/module-v3.3.5/misched_core_3.3.5.zip",
   "notes": "修复已知问题\n\n装完重启生效。下载失败请加 QQ 群 1084149959\n"
 }
