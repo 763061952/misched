@@ -1,7 +1,7 @@
 {
-  "version": "2.4.422",
-  "versionCode": 658,
-  "apk": "https://github.com/763061952/misched/releases/download/v2.4.422/AutoPower_v2.4.422.apk",
+  "version": "2.4.427",
+  "versionCode": 663,
+  "apk": "https://github.com/763061952/misched/releases/download/v2.4.427/AutoPower_v2.4.427.apk",
   "module": "https://github.com/763061952/misched/releases/download/module-v3.3.6/misched_core_3.3.6.zip",
-  "notes": "引擎更名 AEQUITAS · 核心分配接通\n\n更新 App 后请一并更新模块。\n下载失败请加 QQ 群 1084149959\n"
+  "notes": "核心分配接通 · 卡顿修复\n\n更新 App 后请一并更新模块。\n下载失败请加 QQ 群 1084149959\n"
 }
