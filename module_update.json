@@ -1,1 +1,1 @@
-{"version": "3.3.7", "versionCode": 337, "module": "https://github.com/763061952/misched/releases/download/module-v3.3.7/misched_core_3.3.7.zip", "notes": "游戏模式完整接入：进游戏可限 50% 或满频，退出恢复当前档位；退出游戏保持伪装可开关。状态文件新增 game50/gamebeast/keepmask。\n\n装完重启生效。App 请一起更新。下载失败请加 QQ 群 1084149959\n"}
+{"version": "3.3.7", "versionCode": 337, "module": "https://github.com/763061952/misched/releases/download/v3.2.0/misched_core_3.3.7.zip", "notes": "游戏模式接入：进游戏可限 50% 或满频，退出恢复档位；退出保持伪装可开关。\n\n装完重启生效。下载失败请加 QQ 群 1084149959\n"}
