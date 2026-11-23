@@ -1,1 +1,1 @@
-{"version": "3.3.9", "versionCode": 339, "module": "https://github.com/763061952/misched/releases/download/v3.2.4/misched_core_3.3.9.zip", "notes": "日常记录采样一比一还原米快充 2.9.83：60秒一条7列CSV，sysfs未就绪不写脏样本。装完重启生效。\n\n下载失败请加 QQ 群 1084149959\n"}
+{"version": "3.3.9", "versionCode": 339, "module": "https://github.com/763061952/misched/releases/download/v3.2.4/misched_core_3.3.9.zip", "notes": "日常记录采样：每 60 秒一条 7 列 CSV，系统节点未就绪时不写脏样本。装完重启生效。\n\n下载失败请加 QQ 群 1084149959\n"}
