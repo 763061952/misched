@@ -1,1 +1,1 @@
-{"version": "3.3.15", "versionCode": 345, "module": "https://github.com/763061952/misched/releases/download/v3.3.20/misched_core_3.3.15.zip", "notes": "3.3.15：新增异常进程智能限流（只限流不杀进程，避免死机）。\n\n· 保持零采样零常驻\n· 需配合 App 3.3.20 使用\n\n下载失败请加 QQ 群 1084149959\n"}
+{"version": "3.3.16", "versionCode": 346, "module": "https://github.com/763061952/misched/releases/download/module-v3.3.16/misched_core_3.3.16.zip", "notes": "3.3.16\n\n普通迭代，修复若干问题。\n\n下载失败请加 QQ 群 1084149959\n"}
