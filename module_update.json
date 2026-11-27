@@ -1,1 +1,1 @@
-{"version": "3.3.17", "versionCode": 347, "module": "https://github.com/763061952/misched/releases/download/module-v3.3.17/misched_core_3.3.17.zip", "notes": "模块 3.3.17：\n· 新增 App 前台白名单：自己的 App 不受省电档算力压制，其他应用照常省电\n· 修复热控判断误用 sconfig 导致的频率抖动\n· 普通迭代，修复若干问题\n"}
+{"version": "3.3.18", "versionCode": 348, "module": "https://github.com/763061952/misched/releases/download/module-v3.3.18/misched_core_3.3.18.zip", "notes": "模块 3.3.18：\n· 新增 App 前台白名单：自己的 App 不受省电档算力压制，其他应用照常省电\n· 修复热控判断误用 sconfig 导致的频率抖动\n· 普通迭代，修复若干问题\n"}
